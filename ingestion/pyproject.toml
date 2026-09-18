@@ -26,14 +26,14 @@ dependencies = [
 [dependency-groups]
 dev = [
     "mypy>=1.17.0,<2",
-    "pytest>=8.4.1,<9",
+    "pytest>=8.4.1,<10",
     "ruff>=0.12.5,<0.13",
     "pytest-asyncio>=1.1.0,<2",
     "types-networkx>=3.5.0.20250712,<4",
     "basedpyright>=1.17.3,<2",
     "pyvis>=0.3.2,<0.4",
     "ipython>=9.4.0,<10",
-    "datamodel-code-generator>=0.32.0,<0.33",
+    "datamodel-code-generator>=0.32.0,<0.65",
     "httpx>=0.28.0,<0.29",
 ]
 
